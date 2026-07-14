@@ -1,0 +1,15 @@
+#паролиидоступы
+.env
+
+#тяжелыефайлыданных
+*.csv
+*.xlsx
+
+#системныефайлыjupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+
+#виртуальноеокружение
+venv/
+.venv/
